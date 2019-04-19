@@ -1,0 +1,121 @@
+Founded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md
+ Total de Links 7Links únicos NaN
+Links activos undefined
+
+LINK: https://help.github.com/articles/configuring-a-remote-for-a-fork/ TEXT: configurar FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/4bYnuh TEXT: pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/XSFcT5 TEXT: revisar el pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/HLJtqN TEXT: aceptar los cambios FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/uAMBX2 TEXT: pair programming FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://help.github.com/articles/fork-a-repo/ TEXT: fork FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://help.github.com/articles/about-pull-requests/ TEXT: pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md
+ Total de Links 8Links únicos NaN
+Links activos undefined
+
+LINK: README.md#parte-opcional-hacker-edition TEXT: (Hacker Edition) FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://www.chartjs.org/ TEXT: Chart.js FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://developers.google.com/chart/ TEXT: Google Charts FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#resumen-del-proyecto TEXT: fuente de datos FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://es.wikipedia.org/wiki/Refactorizaci%C3%B3n TEXT: Refactoriza FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#parte-obligatoria TEXT: parte obligatoria FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://developer.mozilla.org/es/docs/Web/API/Fetch_API TEXT: fetch FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://www.theodysseyonline.com/road-trips-worthwhile TEXT: Fuente FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/README.md
+ Total de Links 0Links únicos NaN
+Links activos undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md
+ Total de Links 7Links únicos NaN
+Links activos undefined
+
+LINK: https://help.github.com/articles/configuring-a-remote-for-a-fork/ TEXT: configurar FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/uAMBX2 TEXT: pair programming FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://help.github.com/articles/fork-a-repo/ TEXT: fork FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://help.github.com/articles/about-pull-requests/ TEXT: pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md
+ Total de Links 8Links únicos NaN
+Links activos undefined
+
+LINK: https://www.theodysseyonline.com/road-trips-worthwhile TEXT: Fuente FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#parte-obligatoria TEXT: parte obligatoria FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#parte-opcional-hacker-edition TEXT: (Hacker Edition) FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://developer.mozilla.org/es/docs/Web/API/Fetch_API TEXT: fetch FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://www.chartjs.org/ TEXT: Chart.js FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://developers.google.com/chart/ TEXT: Google Charts FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#resumen-del-proyecto TEXT: fuente de datos FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://es.wikipedia.org/wiki/Refactorizaci%C3%B3n TEXT: Refactoriza FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/README.md
+ Total de Links 0Links únicos NaN
+Links activos undefined
+
+LINK: https://goo.gl/XSFcT5 TEXT: revisar el pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/HLJtqN TEXT: aceptar los cambios FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/4bYnuh TEXT: pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md
+ Total de Links 7Links únicos NaN
+Links activos undefined
+
+LINK: https://help.github.com/articles/configuring-a-remote-for-a-fork/ TEXT: configurar FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/4bYnuh TEXT: pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/XSFcT5 TEXT: revisar el pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/HLJtqN TEXT: aceptar los cambios FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://goo.gl/uAMBX2 TEXT: pair programming FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://help.github.com/articles/fork-a-repo/ TEXT: fork FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefined
+
+LINK: https://help.github.com/articles/about-pull-requests/ TEXT: pull request FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/collaboration.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md
+ Total de Links 8Links únicos NaN
+Links activos undefined
+
+LINK: https://www.theodysseyonline.com/road-trips-worthwhile TEXT: Fuente FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#parte-obligatoria TEXT: parte obligatoria FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#parte-opcional-hacker-edition TEXT: (Hacker Edition) FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://developer.mozilla.org/es/docs/Web/API/Fetch_API TEXT: fetch FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://www.chartjs.org/ TEXT: Chart.js FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://developers.google.com/chart/ TEXT: Google Charts FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: README.md#resumen-del-proyecto TEXT: fuente de datos FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefined
+
+LINK: https://es.wikipedia.org/wiki/Refactorizaci%C3%B3n TEXT: Refactoriza FILE: C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/EXTRA.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/GDL002-data-lovers/README.md
+ Total de Links 0Links únicos NaN
+Links activos undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/PruebasMd/prueba1.md
+ Total de Links 2Links únicos NaN
+Links activos undefined
+
+LINK: https://es.wikipedia.org/wiki/Markdown TEXT: Markdown FILE: C:/Users/Usuario Principal/Laboratoria/PruebasMd/prueba1.md STATS: undefined
+
+LINK: https://nodejs.org/ TEXT: Node.js FILE: C:/Users/Usuario Principal/Laboratoria/PruebasMd/prueba1.md STATS: undefinedFounded Links in C:/Users/Usuario Principal/Laboratoria/PruebasMd/prueba1.md
+ Total de Links 2Links únicos NaN
+Links activos undefined
+
+LINK: https://es.wikipedia.org/wiki/Markdown TEXT: Markdown FILE: C:/Users/Usuario Principal/Laboratoria/PruebasMd/prueba1.md STATS: undefined
+
+LINK: https://nodejs.org/ TEXT: Node.js FILE: C:/Users/Usuario Principal/Laboratoria/PruebasMd/prueba1.md STATS: undefined
