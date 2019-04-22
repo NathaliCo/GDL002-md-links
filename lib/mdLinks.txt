@@ -1,7 +1,49 @@
 0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
+
+LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
+
+LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
+
+LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
+
+LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
 0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
 0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
 
-LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: true
+LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false
+LINK: https://developers.google.com/v8/ TEXT: motor de JavaScript V8 de Chrome FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false
+LINK: https://github.com/Nathalis/GDL002-md-links/Nathali TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false0Founded Links in C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md
+
+LINK: https://nohdgfhdfhdfghdejs.org/es/ TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false
 LINK: https://developers.google.com/v8/ TEXT: motor de JavaScript V8 de Chrome FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: true
-LINK: https://nodejs.org/Nathali TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: true
+LINK: https://github.com/Nathalis/GDL002-md-links/Nathali TEXT: Node.js FILE: C:\Users\Usuario Principal\Laboratoria\PruebasMd\prueba2.md STATS: false0Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined0Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined0Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined0Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined0Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined
