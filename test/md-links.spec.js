@@ -74,95 +74,22 @@ describe('arrayLinks', () => {
   });
 });
 
-// describe('anclaNotUrl', ()=>{
-//   it('should be an array, should select only the anclas who has links', ()=>{
-//     expect(parse.anclaNotUrl([{ href: '/es/profiles/raecillacastellana',
-//     text: 'raecillacastellana',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: false },
-//   { href: '/es/profiles/BubuAnabelas',
-//     text: 'BubuAnabelas',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: false },
-//   { href: '/es/profiles/igualar.com',
-//     text: 'igualar.com',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: false },
-//   { href: '/es/profiles/luisgm76',
-//     text: 'luisgm76',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: false },
-//   { href: 'https://github.com/md',
-//     text: 'GitHub',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://www.mozilla.org/about/',
-//     text: 'Acerca de',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true } ])).toBe([ { href: 'https://support.mozilla.org/',
-//     text:
-//      'Obtén ayuda de Firefox',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://stackoverflow.com/',
-//     text:
-//      'Obtén ayuda de desarrollo web',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href:
-//      'https://github.com/mdn/sprints/issues/new?template=issue-template.md&projects=mdn/sprints/2&labels=user-report&title=https%3A//developer.mozilla.org/es/docs/Web',
-//     text:
-//      'Denuncia un problema de contenido',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://bugzilla.mozilla.org/form.mdn',
-//     text:
-//      'Informar de un error',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'http://es.wikipedia.org/wiki/Capa_de_aplicaci%C3%B3n',
-//     text: 'capa de aplicación',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://www.mozilla.org/privacy/',
-//     text: ' Política de privacidad',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://twitter.com/mozdevnet',
-//     text: 'Twitter',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://github.com/md',
-//     text: 'GitHub',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://mozilla.org',
-//     text: 'Mozilla',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://www.mozilla.org/about/',
-//     text: 'Acerca de',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://www.mozilla.org/contact/',
-//     text: 'Contáctanos',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href:
-//      'https://www.mozilla.org/firefox/?utm_source=developer.mozilla.org&utm_campaign=footer&utm_medium=referral',
-//     text: 'Firefox',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://twitter.com/mozilla',
-//     text: 'Twitter',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true },
-//   { href: 'https://www.facebook.com/mozilla',
-//     text: 'Facebook',
-//     file: 'https://developer.mozilla.org/es/docs/Web',
-//     stats: true }] );
-//   })
-// })
+describe('anclaNotUrl', ()=>{
+  it('should be an array, should select only the anclas who has links', ()=>{
+    expect(parse.anclaNotUrl(
+    [{ href: '/es/profiles/luisgm76',
+    text: 'luisgm76',
+    file: 'https://developer.mozilla.org/es/docs/Web',
+    stats: false },
+  { href: 'https://github.com/md',
+    text: 'GitHub',
+    file: 'https://developer.mozilla.org/es/docs/Web',
+    stats: true }])).toEqual([ { href: 'https://github.com/md',
+    text: 'GitHub',
+    file: 'https://developer.mozilla.org/es/docs/Web',
+    stats: true }] );
+  })
+})
 describe('linkTrue',()=>{
   it ('Should be false when the url doesn´t exist',done=>{
     parse.linkTrue("https://github.com/Nathalis/GDL002-md-links/Nathalis").then(result => {
@@ -281,7 +208,7 @@ describe('uniqueLinks',()=>{
      text: 'Leer un archivo',
      file: undefined, 
      stats: true }
-   ])).toEqual(3);
+   ]).length).toEqual(3);
   });
 
   it ('Should be 2 links unique ',()=>{
@@ -303,7 +230,7 @@ describe('uniqueLinks',()=>{
      text: 'Leer un archivo',
      file: undefined, 
      stats: true }
-   ])).toEqual(2);
+   ]).length).toEqual(2);
   });
 })
 
@@ -331,11 +258,11 @@ describe('statsLinks',()=>{
   });
 })
 
-describe('pathTrue', () => {
+describe('Create new document', () => {
   it('Should return new file', async ()=> {
     expect.assertions(1);
     const data= await document.newDocument("../README.md", '["1","2"]', "4", "5");
-    expect(data).toEqual('El archivo ha sido creado exitosamente');
+    expect(data).toEqual('File success');
   });
 });
 
@@ -350,8 +277,8 @@ describe('addLinkToDocument', () => {
 
 describe('addStats', () => {
   it('Should return done stats', async () => {
-    expect.assertions(1);
-  const data= await document.addStats(["1","2"]);
+
+  const data= await document.addStats(["1","2"], ["1","2"], "1");
   expect(data).toEqual('Done stats');
   });
   

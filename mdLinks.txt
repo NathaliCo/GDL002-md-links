@@ -1,0 +1,79 @@
+9 Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined9 Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined9 Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined9 Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined9 Founded Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined STATS: undefined
+ Total de Links 2
+Links únicos undefined
+Links activos undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+ Total Links 2
+Links unique 2
+Links true 1
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+ Total Links 2
+Links unique 2
+Links true 1
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+ Total Links 2
+Links unique 2
+Links true 1
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+ Total Links 2
+Links unique 2
+Links true 1
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined STATS: undefined9 Found Links in ../README.md
+
+ Total Links 2
+Links unique 2
+Links true 1
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined AVAILABLE: undefined
+LINK: undefined TEXT: undefined FILE: undefined LINE: undefined AVAILABLE: undefined9 Found Links in ../README.md
+
+ Total Links 2
+Links unique 2
+Links available 1
