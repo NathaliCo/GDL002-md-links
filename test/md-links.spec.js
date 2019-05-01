@@ -111,28 +111,18 @@ it ('Should be false when the url is wrong',done=>{
 });
 })
 
-describe('validateLinks',()=>{
-  it ('Should be an array', done =>{
-  return validate.validateLinks( [ { href:
-      'https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5',
-     text: 'What exactly is Node.js? - freeCodeCamp',
-     file: undefined },
-   { href:
-      'http://community.laboratoria.la/t/modulos-librerias-paquetes-frameworks-cual-es-la-diferencia/175',
-     text:
-      'Módulos, librerías, paquetes, frameworks... ¿cuál es la diferencia?',
-     file: undefined },
- 
-   { href:
-      'https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback',
-     text: 'Leer un archivo',
-     file: undefined }
-   ]).then(data =>{
-     expect(data).toEqual([{"file": undefined, "href": "https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5", "stats": true, "text": "What exactly is Node.js? - freeCodeCamp"},
-     {"file": undefined, "href": "http://community.laboratoria.la/t/modulos-librerias-paquetes-frameworks-cual-es-la-diferencia/175", "stats": true, "text": "Módulos, librerías, paquetes, frameworks... ¿cuál es la diferencia?"}, {"file": undefined, "href": "https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback", "stats": true, "text": "Leer un archivo"}]);
-     done();
-    });
-    
+
+    describe('validateLinks',()=>{
+      it ('Should be an array', done =>{
+      return validate.validateLinks( [ { href:
+          'https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5',
+         text: 'What exactly is Node.js? - freeCodeCamp',
+         file: undefined },
+       ]).then(data =>{
+         expect(data).toEqual([{"file": undefined, "href": "https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5", "available": true, "text": "What exactly is Node.js? - freeCodeCamp"},
+         ]);
+         done();
+        });
 });
 it ('Should be an array', done =>{
   return validate.validateLinks([{href: "https://github.com/Nathalis/GDL002-md-links/Nathalis", text: 'What exactly is Node.js? - freeCodeCamp', file: undefined },
@@ -145,11 +135,11 @@ it ('Should be an array', done =>{
   file:
   undefined
   }]).then(result =>{
-     expect(result).toEqual([{"file": undefined, "href": "https://github.com/Nathalis/GDL002-md-links/Nathalis", "stats": false, "text": "What exactly is Node.js? - freeCodeCamp"}, {"file": undefined, "href": "http://community.laboratoria.la/t/modulos-librerias-paquetes-frameworks-cual-es-la-diferencia/175", "stats": true, "text": "Módulos, librerías, paquetes, frameworks... ¿cuál es la diferencia?"},{ href: 'https://nohdgfhdfhdfghdejs.org/es/',
+     expect(result).toEqual([{"file": undefined, "href": "https://github.com/Nathalis/GDL002-md-links/Nathalis", "available": "false status: 404", "text": "What exactly is Node.js? - freeCodeCamp"}, {"file": undefined, "href": "http://community.laboratoria.la/t/modulos-librerias-paquetes-frameworks-cual-es-la-diferencia/175", "available": true, "text": "Módulos, librerías, paquetes, frameworks... ¿cuál es la diferencia?"},{ href: 'https://nohdgfhdfhdfghdejs.org/es/',
      text: 'Node.js',
      file:
       undefined,
-     stats: false }]),
+     "available": false, }]),
     done();
     });
 });
@@ -240,20 +230,20 @@ describe('statsLinks',()=>{
             'https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5',
            text: 'What exactly is Node.js? - freeCodeCamp',
            file: undefined, 
-           stats: false },
+           available: false },
            
          { href:
             'http://community.laboratoria.la/t/modulos-librerias-paquetes-frameworks-cual-es-la-diferencia/175',
            text:
             'Módulos, librerías, paquetes, frameworks... ¿cuál es la diferencia?',
            file: undefined, 
-           stats: true },
+           available: true },
        
          { href:
             'https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback',
            text: 'Leer un archivo',
            file: undefined, 
-           stats: true }
+           available: true }
          ])).toBe(2);
   });
 })
