@@ -53,7 +53,6 @@ All links in the next format
 >{
 href: URL.
 text: Text in the link
-line: Line where the link was found
 file: Path
 }
 
@@ -72,17 +71,17 @@ or
 $ mdLinks "C:/Users/directory/file.md"
 
 
-Print in the console the found links in the file and create a document with a list of all them, each link object include the href, text, line and file.
+Print in the console the found links in the file and create a document with a list of all them, each link object include the href, text and file.
 
 **with options**
 
 >$ mdLinks "/file.md" --validate
 
-Prints in the console a list of all the links included in the file, and also creates a file with all the links inside of it, each link object include the href, text, line, file, and available.
+Prints in the console a list of all the links included in the file, and also creates a file with all the links inside of it, each link object include the href, text, file, and available.
 
 >$ mdLinks "/file.md"--stats
 
-Prints in the console a list of all the links included in the file, the found links in the file and create a document with a list of all them, each link object include the href, text, line and file, includes the statistics:
+Prints in the console a list of all the links included in the file, the found links in the file and create a document with a list of all them, each link object include the href, text and file, includes the statistics:
 - Total links.
 - Total unique links.
 
@@ -90,7 +89,7 @@ Prints in the console a list of all the links included in the file, the found li
 
 >$ mdLinks "/file.md" --validate--stats
 
-Prints in the console a list of all the links included in the file, the found links in the file and create a document with a list of all them, each link object include the href, text, line and file, and available, inclides the statistics: total links.
+Prints in the console a list of all the links included in the file, the found links in the file and create a document with a list of all them, each link object include the href, text and file, and available, inclides the statistics: total links.
 - Total links
 - Total unique links.
 - Total available links.
