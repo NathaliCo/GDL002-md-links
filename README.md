@@ -25,10 +25,8 @@ At the end, it will generate a file called mdLinks.txt located inside the same d
 
 
 You can install Markdown Links local 
->$npm install nathalis-mdLinks
+> $npm install Nathalis/GDL002-md-links
 
-Or global 
-> $npm install nathalis-mdLinks --global
 
 ## How to use it
 
