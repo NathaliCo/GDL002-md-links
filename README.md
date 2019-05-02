@@ -98,13 +98,18 @@ Prints in the console a list of all the links included in the file, the found li
 - Total unique links.
 - Total available links.
 
-## For use with JavaScript
+## To be used in JavaScript
 
 1.- Create app.js
+
 2.- Inside app.js 
+
 -const mdLinks = require("./node_modules/md-links/src/cli.js");
+
 -mdLinks.mdLinks("yourFile.md", "--validate--stats");
+
 3.- In console 
+
 >$node app.js
 
 # Flow diagram
