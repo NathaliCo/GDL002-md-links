@@ -1,9 +1,9 @@
-const path = require("./lib/path");
-const parse = require("./lib/parse");
-const validate = require("./lib/validate");
-const document = require("./lib/document");
-const stats = require("./lib/stats");
-const dir = require("./lib/dir");
+const path = require("../lib/path");
+const parse = require("../lib/parse");
+const validate = require("../lib/validate");
+const document = require("../lib/document");
+const stats = require("../lib/stats");
+const dir = require("../lib/dir");
 
 //File system
 var fs = require("fs");
@@ -14,7 +14,7 @@ let options = process.argv[3];
 module.exports={
 mdLinks
 }
-
+mdLinks(pathFile,options);
 //Start
 function mdLinks(pathFile, options) {
     let pathTrue = path.pathTrue(pathFile);

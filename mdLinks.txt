@@ -1,33 +1,7 @@
-4 Found Links in ./README.md
 
-LINK: https://github.com/evilstreak/markdown-js TEXT: Markdown FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://github.com/cheeriojs/cheerio TEXT: Cheerio FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://www.npmjs.com/package/node-fetch TEXT: node-fetch FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://nodejs.org/ TEXT: Node.js 11.13.4. FILE: ./README.md LINE: undefined AVAILABLE: undefined4 Found Links in ./README.md
-4 Found Links in ./README.md
+LINK: undefined TEXT: undefined FILE: undefined AVAILABLE: undefined
+LINK: undefined TEXT: undefined FILE: undefined AVAILABLE: undefined9 Found Links in ../README.md
 
-LINK: https://github.com/evilstreak/markdown-js TEXT: Markdown FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://github.com/cheeriojs/cheerio TEXT: Cheerio FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://www.npmjs.com/package/node-fetch TEXT: node-fetch FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://nodejs.org/ TEXT: Node.js 11.13.4. FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://github.com/evilstreak/markdown-js TEXT: Markdown FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://github.com/cheeriojs/cheerio TEXT: Cheerio FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://www.npmjs.com/package/node-fetch TEXT: node-fetch FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://nodejs.org/ TEXT: Node.js 11.13.4. FILE: ./README.md LINE: undefined AVAILABLE: undefined4 Found Links in ./README.md
-
- Total Links 4
-Links unique undefined
-Links available 0
-LINK: https://github.com/evilstreak/markdown-js TEXT: Markdown FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://github.com/cheeriojs/cheerio TEXT: Cheerio FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://www.npmjs.com/package/node-fetch TEXT: node-fetch FILE: ./README.md LINE: undefined AVAILABLE: undefined
-LINK: https://nodejs.org/ TEXT: Node.js 11.13.4. FILE: ./README.md LINE: undefined AVAILABLE: undefined4 Found Links in ./README.md
-4 Found Links in ./README.md
-
-LINK: https://github.com/evilstreak/markdown-js TEXT: Markdown FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://github.com/cheeriojs/cheerio TEXT: Cheerio FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://www.npmjs.com/package/node-fetch TEXT: node-fetch FILE: ./README.md LINE: undefined AVAILABLE: true
-LINK: https://nodejs.org/ TEXT: Node.js 11.13.4. FILE: ./README.md LINE: undefined AVAILABLE: true
- Total Links 4
-Links unique 4
-Links available 4
+ Total Links 2
+Links unique 2
+Links available 1
