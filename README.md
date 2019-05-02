@@ -12,7 +12,7 @@ At the end, it will generate a file called mdLinks.txt located inside the same d
 >$npm install markdown
 
 - [Cheerio](https://github.com/cheeriojs/cheerio) to extract the links 
->$Cheerio npm install
+>$npm install cheerio 
 
 - [node-fetch](https://www.npmjs.com/package/node-fetch) for the HTTP request 
 >$npm i node-fetch
@@ -53,7 +53,7 @@ file: Path
 
 ## CLI (Command Line Interface)
 
-1.-For start, access in the console to "\node_modules\md-Links\src" inside the directory in wich one you install mdLinks
+1.-For start, access in the console to "\node_modules\nathalis-md-Links\src" inside the directory in wich one you install mdLinks
 
 2.- 
 >$ node
@@ -90,7 +90,6 @@ Prints in the console a list of all the links included in the file, the found li
 - Total links.
 - Total unique links.
 
-  
 
 >$ mdLinks.mdLinks ("/file.md", "--validate--stats")
 
@@ -100,6 +99,13 @@ Prints in the console a list of all the links included in the file, the found li
 - Total available links.
 
 ## For use with JavaScript
+
+1.- Create app.js
+2.- Inside app.js 
+-const mdLinks = require("./node_modules/md-links/src/cli.js");
+-mdLinks.mdLinks("yourFile.md", "--validate--stats");
+3.- In console 
+>$node app.js
 
 # Flow diagram
 ## File case
