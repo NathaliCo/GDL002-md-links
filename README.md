@@ -53,45 +53,35 @@ file: Path
 
 ## CLI (Command Line Interface)
 
-1.-For start, access in the console to "\node_modules\nathalis-md-Links\src" inside the directory in wich one you install mdLinks
+For use in CLI enter in the console
 
-2.- 
->$ node
-
-3.-
->mdLinks = require ("./cli.js")
-
-4.-
-
->mdLinks.mdLinks ("path-to-file",  "options")
-
+>md-Links "path-to-file" --options
 
 ### Example:
 
 ### **without options**
 
->$ mdLinks.mdLinks ("../file.md")
-or 
-$ mdLinks ("C:/Users/directory/file.md")
+>$md-Links "../file.md"
+or for an absolute path
+>$md-Links "C:/Users/directory/file.md"
 
 **NOTE** Don´t forget to use " "for the arguments and scape the backslashes ( \ ) or use forward slash ( / ).
 
 Print in the console the found links in the file and create a document with a list of all them, each link object include the href, text and file.
 
 ### **with options**
-
->$ mdLinks.mdLinks ("/file.md", "--validate")
+$md-Links "../file.md" --validate
 
 Prints in the console a list of all the links included in the file, and also creates a file with all the links inside of it, each link object include the href, text, file, and available.
 
->$ mdLinks.mdLinks ("/file.md", "--stats")
+>$ mdLinks.mdLinks "../file.md" --stats
 
 Prints in the console a list of all the links included in the file, the found links in the file and create a document with a list of all them, each link object include the href, text and file, includes the statistics:
 - Total links.
 - Total unique links.
 
 
->$ mdLinks.mdLinks ("/file.md", "--validate--stats")
+>$ md-Links "../file.md" --validate--stats
 
 Prints in the console a list of all the links included in the file, the found links in the file and create a document with a list of all them, each link object include the href, text and file, and available, inclides the statistics: total links.
 - Total links

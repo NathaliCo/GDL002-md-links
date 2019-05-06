@@ -1,0 +1,5 @@
+
+LINK: https://github.com/evilstreak/markdown-js TEXT: Markdown FILE: ./Readme.md AVAILABLE: undefined
+LINK: https://github.com/cheeriojs/cheerio TEXT: Cheerio FILE: ./Readme.md AVAILABLE: undefined
+LINK: https://www.npmjs.com/package/node-fetch TEXT: node-fetch FILE: ./Readme.md AVAILABLE: undefined
+LINK: https://nodejs.org/ TEXT: Node.js 11.13.4. FILE: ./Readme.md AVAILABLE: undefined4 Found Links in ./Readme.md
