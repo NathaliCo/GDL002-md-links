@@ -1,4 +1,5 @@
 
+
 # Markdown Links
 **Markdown Links** is a tool for identify all the links that are inside of a file with .md extension or web page, and also helps you to identify broken and live links, and get a stats about those links like; how many links are inside your file, how many of them are alive, and wich ones are repeated.
 
@@ -8,7 +9,7 @@ At the end, it will generate a file called mdLinks.txt located inside the same d
 
 ## MarkdownLinks uses:
 
-- [Markdown](https://github.com/evilstreak/markdown-js) to transform the .md in HTML
+- [Markdown](https://github.com/evilstreakmarkdown-js) to transform the .md in HTML
 >$npm install markdown
 
 - [Cheerio](https://github.com/cheeriojs/cheerio) to extract the links 
@@ -18,12 +19,11 @@ At the end, it will generate a file called mdLinks.txt located inside the same d
 >$npm i node-fetch
 
 ## Prerequisites: 
-[Node.js 11.13.4.](https://nodejs.org/)
+- [Node.js 11.13.4.](https://nodejs.org/)
 
 ## You can install Markdown Links using:
 
 > $npm install Nathalis/GDL002-md-links
-
 
 ## How to use it
 
@@ -34,7 +34,7 @@ At the end, it will generate a file called mdLinks.txt located inside the same d
 
 `path:`absolute or relative path for a file, directory or URL. If the route is relative it resolves respect to the current working directory.
 
-  
+  [Cheerio](https://github.com/)
 
 `options:`
 - validate: if you want to validate the found links.
